@@ -1,7 +1,7 @@
 GettingCleaningData-CourseProject
 =================================
 Analysis of the UCI HAR DATASET FOR COURSE PROJECT 2
-=================================================
+=========================
 
 The analysis is being done by a single script - run_Analysis.R
 
