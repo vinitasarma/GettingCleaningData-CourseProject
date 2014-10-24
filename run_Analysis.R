@@ -61,11 +61,11 @@ names(extractedData)<- datalabels
 
 #use aggregate
 
-d<- aggregate(extractedData, by = list(extractedData$Subject, extractedData$Ativity), FUN = mean)
+d<- aggregate(extractedData, by = list(extractedData$Subject, extractedData$Activity), FUN = mean)
 tidydata<- d[1:68]
 colnames(tidydata)[1]<- "Subject"
 colnames(tidydata)[2]<- "Activity"
 
 #-------------------------------------------------------------------------------
 
-
+write.table(tidydata, "tidydata.txt", row.names = FALSE)
