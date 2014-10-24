@@ -50,15 +50,15 @@ Variables containing 'std' denote that the variable represents the standard devi
 Variables in time domain:  
 tBodyAcc-mean-X  
 tBodyAcc-mean-Y  
-tBodyAcc-mean-Z
-tBodyAcc-std-X
-tBodyAcc-std-Y
-tBodyAcc-std-Z
+tBodyAcc-mean-Z  
+tBodyAcc-std-X  
+tBodyAcc-std-Y  
+tBodyAcc-std-Z  
 tGravityAcc-mean-X  
 tGravityAcc-mean-Y  
-tGravityAcc-mean-Z
-10	tGravityAcc-std-X
-11	tGravityAcc-std-Y
+tGravityAcc-mean-Z  
+tGravityAcc-std-X  
+tGravityAcc-std-Y
 12	tGravityAcc-std-Z
 13	tBodyAccJerk-mean-X
 14	tBodyAccJerk-mean-Y
