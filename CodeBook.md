@@ -10,20 +10,13 @@ The original dataset for this assignment along with experiment description is as
 "Subject" -  numbered 1:30, since this experimental data was collected from 30 subjects
 
 "Activity" - can be one of the 6 activities  
-
- WALKING
+ WALKING  
+ WALKING_UPSTAIRS  
+ WALKING_DOWNSTAIRS  
+ SITTING  
+ STANDING  
+ LAYING  
  
- WALKING_UPSTAIRS
-
- WALKING_DOWNSTAIRS
-
- SITTING
- 
- STANDING
- 
- LAYING
-
-
 The rest of the variables that follow are variables corresponding to measurements. Here is the fundamental signal description.
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
@@ -54,16 +47,16 @@ Variables containing 'std' denote that the variable represents the standard devi
 * <b>New Naming Convention</b>: The original naming convention was tBodyAcc-mean()-X. The only difference between the old and new variable names is that '()' has been removed. I have retained everything else from the old convention since it was very informative as such, and the '-' made the names more readable. () I thought was unnecessary, and so removed it but decided to retain the '-' to preserve the readability.
 
 
-Variables in time domain:
-	tBodyAcc-mean-X
-	tBodyAcc-mean-Y
-3	tBodyAcc-mean-Z
-4	tBodyAcc-std-X
-5	tBodyAcc-std-Y
-6	tBodyAcc-std-Z
-7	tGravityAcc-mean-X
-8	tGravityAcc-mean-Y
-9	tGravityAcc-mean-Z
+Variables in time domain:  
+tBodyAcc-mean-X  
+tBodyAcc-mean-Y  
+tBodyAcc-mean-Z
+tBodyAcc-std-X
+tBodyAcc-std-Y
+tBodyAcc-std-Z
+tGravityAcc-mean-X  
+tGravityAcc-mean-Y  
+tGravityAcc-mean-Z
 10	tGravityAcc-std-X
 11	tGravityAcc-std-Y
 12	tGravityAcc-std-Z
