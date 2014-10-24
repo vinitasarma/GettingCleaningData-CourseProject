@@ -86,37 +86,37 @@ tBodyAccJerkMag-mean
 tBodyAccJerkMag-std  
 tBodyGyroMag-mean  
 tBodyGyroMag-std  
-tBodyGyroJerkMag-mean
+tBodyGyroJerkMag-mean  
 tBodyGyroJerkMag-std  
 
-Variables in frequency domain
+Variables in frequency domain  
 
-41	fBodyAcc-mean-X
-42	fBodyAcc-mean-Y
-43	fBodyAcc-mean-Z
-44	fBodyAcc-std-X
-45	fBodyAcc-std-Y
-46	fBodyAcc-std-Z
-47	fBodyAccJerk-mean-X
-48	fBodyAccJerk-mean-Y
-49	fBodyAccJerk-mean-Z
-50	fBodyAccJerk-std-X
-51	fBodyAccJerk-std-Y
-52	fBodyAccJerk-std-Z
-53	fBodyGyro-mean-X
-54	fBodyGyro-mean-Y
-55	fBodyGyro-mean-Z
-56	fBodyGyro-std-X
-57	fBodyGyro-std-Y
-58	fBodyGyro-std-Z
-59	fBodyAccMag-mean
-60	fBodyAccMag-std
-61	fBodyBodyAccJerkMag-mean
-62	fBodyBodyAccJerkMag-std
-63	fBodyBodyGyroMag-mean
-64	fBodyBodyGyroMag-std
-65	fBodyBodyGyroJerkMag-mean
-66	fBodyBodyGyroJerkMag-std
+fBodyAcc-mean-X  
+fBodyAcc-mean-Y  
+fBodyAcc-mean-Z  
+fBodyAcc-std-X  
+fBodyAcc-std-Y  
+fBodyAcc-std-Z  
+fBodyAccJerk-mean-X  
+fBodyAccJerk-mean-Y  
+fBodyAccJerk-mean-Z  
+fBodyAccJerk-std-X  
+fBodyAccJerk-std-Y  
+fBodyAccJerk-std-Z  
+fBodyGyro-mean-X  
+fBodyGyro-mean-Y  
+fBodyGyro-mean-Z  
+fBodyGyro-std-X  
+fBodyGyro-std-Y  
+fBodyGyro-std-Z  
+fBodyAccMag-mean  
+fBodyAccMag-std  
+fBodyBodyAccJerkMag-mean  
+fBodyBodyAccJerkMag-std  
+fBodyBodyGyroMag-mean  
+fBodyBodyGyroMag-std  
+fBodyBodyGyroJerkMag-mean  
+fBodyBodyGyroJerkMag-std  
 
 ### Transformations on original dataset
 
