@@ -58,36 +58,36 @@ tGravityAcc-mean-X
 tGravityAcc-mean-Y  
 tGravityAcc-mean-Z  
 tGravityAcc-std-X  
-tGravityAcc-std-Y
-12	tGravityAcc-std-Z
-13	tBodyAccJerk-mean-X
-14	tBodyAccJerk-mean-Y
-15	tBodyAccJerk-mean-Z
-16	tBodyAccJerk-std-X
-17	tBodyAccJerk-std-Y
-18	tBodyAccJerk-std-Z
-19	tBodyGyro-mean-X
-20	tBodyGyro-mean-Y
-21	tBodyGyro-mean-Z
-22	tBodyGyro-std-X
-23	tBodyGyro-std-Y
-24	tBodyGyro-std-Z
-25	tBodyGyroJerk-mean-X
-26	tBodyGyroJerk-mean-Y
-27	tBodyGyroJerk-mean-Z
-28	tBodyGyroJerk-std-X
-29	tBodyGyroJerk-std-Y
-30	tBodyGyroJerk-std-Z
-31	tBodyAccMag-mean
-32	tBodyAccMag-std
-33	tGravityAccMag-mean
-34	tGravityAccMag-std
-35	tBodyAccJerkMag-mean
-36	tBodyAccJerkMag-std
-37	tBodyGyroMag-mean
-38	tBodyGyroMag-std
-39	tBodyGyroJerkMag-mean
-40	tBodyGyroJerkMag-std
+tGravityAcc-std-Y  
+tGravityAcc-std-Z  
+tBodyAccJerk-mean-X  
+tBodyAccJerk-mean-Y  
+tBodyAccJerk-mean-Z  
+tBodyAccJerk-std-X  
+tBodyAccJerk-std-Y  
+tBodyAccJerk-std-Z  
+tBodyGyro-mean-X  
+tBodyGyro-mean-Y  
+tBodyGyro-mean-Z  
+tBodyGyro-std-X  
+tBodyGyro-std-Y  
+tBodyGyro-std-Z  
+tBodyGyroJerk-mean-X  
+tBodyGyroJerk-mean-Y  
+tBodyGyroJerk-mean-Z  
+tBodyGyroJerk-std-X  
+tBodyGyroJerk-std-Y  
+tBodyGyroJerk-std-Z  
+tBodyAccMag-mean  
+tBodyAccMag-std  
+tGravityAccMag-mean  
+tGravityAccMag-std  
+tBodyAccJerkMag-mean  
+tBodyAccJerkMag-std  
+tBodyGyroMag-mean  
+tBodyGyroMag-std  
+tBodyGyroJerkMag-mean
+tBodyGyroJerkMag-std  
 
 Variables in frequency domain
 
