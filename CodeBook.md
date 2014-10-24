@@ -11,13 +11,15 @@ The original dataset for this assignment along with experiment description is as
 
 "Activity" - can be one of the 6 activities
  WALKING
-2 
+ 
  WALKING_UPSTAIRS
 
  WALKING_DOWNSTAIRS
 
  SITTING
+ 
  STANDING
+ 
  LAYING
 
 
@@ -52,8 +54,8 @@ Variables containing 'std' denote that the variable represents the standard devi
 
 
 Variables in time domain:
-1	tBodyAcc-mean-X
-2	tBodyAcc-mean-Y
+	tBodyAcc-mean-X
+	tBodyAcc-mean-Y
 3	tBodyAcc-mean-Z
 4	tBodyAcc-std-X
 5	tBodyAcc-std-Y
