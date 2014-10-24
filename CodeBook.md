@@ -9,7 +9,8 @@ The original dataset for this assignment along with experiment description is as
 
 "Subject" -  numbered 1:30, since this experimental data was collected from 30 subjects
 
-"Activity" - can be one of the 6 activities
+"Activity" - can be one of the 6 activities  
+
  WALKING
  
  WALKING_UPSTAIRS
